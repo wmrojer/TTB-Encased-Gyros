@@ -1,0 +1,39 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CategoryClasses>
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>Gyroscopes</DisplayName>
+            <Name>Gyroscopes</Name>
+            <ItemIds>
+            
+            <!-- Large -->
+
+                <string>Gyro/T1_Gyroscope_1x1_Large</string>
+                <string>Gyro/T2_Gyroscope_1x1_Large</string>
+                <string>Gyro/T3_Gyroscope_1x1_Large</string>
+                <string>Gyro/T4_Gyroscope_1x1_Large</string>
+                <string>Gyro/T1_Gyroscope_3x3_Large</string>
+                <string>Gyro/T2_Gyroscope_3x3_Large</string>
+                <string>Gyro/T3_Gyroscope_3x3_Large</string>
+                <string>Gyro/T4_Gyroscope_3x3_Large</string>
+
+            <!-- Small -->
+
+                <string>Gyro/T1_Gyroscope_1x1_Small</string>
+                <string>Gyro/T2_Gyroscope_1x1_Small</string>
+                <string>Gyro/T3_Gyroscope_1x1_Small</string>
+                <string>Gyro/T4_Gyroscope_1x1_Small</string>
+                <string>Gyro/T1_Gyroscope_3x3_Small</string>
+                <string>Gyro/T2_Gyroscope_3x3_Small</string>
+                <string>Gyro/T3_Gyroscope_3x3_Small</string>
+                <string>Gyro/T4_Gyroscope_3x3_Small</string>
+
+                
+            </ItemIds>
+        </Category>
+    </CategoryClasses>
+</Definitions>

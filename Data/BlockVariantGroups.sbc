@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+
+        <!-- Control -->
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="GyroscopeGroup" />
+            <Icon>Textures\GUI\Icons\Cubes\gyro.dds</Icon>
+            <DisplayName>DisplayName_Block_Gyroscope</DisplayName>
+            <Description>Description_Gyroscope</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T1_Gyroscope_1x1_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T2_Gyroscope_1x1_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T3_Gyroscope_1x1_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T4_Gyroscope_1x1_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T1_Gyroscope_3x3_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T2_Gyroscope_3x3_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T3_Gyroscope_3x3_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T4_Gyroscope_3x3_Large" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T1_Gyroscope_1x1_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T2_Gyroscope_1x1_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T3_Gyroscope_1x1_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T4_Gyroscope_1x1_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T1_Gyroscope_3x3_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T2_Gyroscope_3x3_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T3_Gyroscope_3x3_Small" />
+                <Block Type="MyObjectBuilder_Gyro" Subtype="T4_Gyroscope_3x3_Small" />
+            </Blocks>
+        </BlockVariantGroup>
+    </BlockVariantGroups>
+</Definitions>
